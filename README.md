@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo List Front-End Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](https://github.com/arthur-kuo/todo-react/blob/master/public/screenshot.jpg)
 
 ## Available Scripts
 
